@@ -7,7 +7,3 @@ C++ Object-Oriented Programming Agile Methodologies MakeFile
 
 ![Library Management System Screenshot](hw4.png)
 
-git mv <subdirectory>/README.md .
-git commit -m "Moved README.md to root directory"
-git push
-
